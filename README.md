@@ -1,1 +1,1 @@
-# Reposiroty for practice leetcode
+# Repository for practice leetcode
