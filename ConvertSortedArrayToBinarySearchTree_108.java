@@ -42,7 +42,7 @@ public class ConvertSortedArrayToBinarySearchTree_108 {
 
     public TreeNode sortedArrayToBST(int[] nums) {
         if(nums.length <= 0) {
-            return new TreeNode();
+            return null;
         }
 
         return getBinarySearchTree(nums, 0, nums.length - 1);
